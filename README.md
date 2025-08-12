@@ -1,4 +1,4 @@
-## Oi, Eu sou Brunohsdev!👋
+## Oi, Eu sou Bruno Santos!👋
 
 - 🔭 Hoje eu trabalho com programação
 - 🌱 Estudando Linguagem de programação Front End
