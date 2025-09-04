@@ -25,15 +25,23 @@
 #
 
 ### 📊 Estatísticas
+<div align="center" display="flex" gap="1000">
 
-![Estatísticas do GitHub de Brunohsdev's](https://github-readme-stats.vercel.app/api?username=Brunohsdev&show_icons=true&theme=tokyonight)
-
+  <img 
+      alt="GitHub Stats" 
+      height="200" 
+      width="400"
+      src="https://github-readme-stats.vercel.app/api?username=Brunohsdev&show_icons=true&theme=tokyonight" 
+  />
 <img 
-      align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunohsdev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+
+  </div>
+
+#
 
 <div align="center">
   <picture>
@@ -44,4 +52,3 @@
 </div>
 
 
-#
