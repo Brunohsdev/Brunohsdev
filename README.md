@@ -1,11 +1,10 @@
 ## Oi, Eu sou Bruno Santos!👋
 
-- 🔭 Hoje eu trabalho com programação
 - 🌱 Estudando Linguagem de programação Front End
 - 💬 Gosto muito de falar sobre Melhoria pessoal
 - 📫 Email de contato: bhas795002@gmail.com
 - 😄 Pronomes: Ele\Dele
-- ⚡ Fato engraçado: Tentei fazer Ioga para relaxar, mas em vez de ficar calmo, acabei ficando empolgado e ansioso!
+
 #
 ### 🐱‍🚀Linguagens e Tecnologias
 <div style="display: inline_block"><br>
@@ -22,24 +21,8 @@
 
 </div>
 
-#
 
-### 📊 Estatísticas
-<div align="center" display="flex" gap="1000">
 
-  <img 
-      alt="GitHub Stats" 
-      height="200" 
-      width="400"
-      src="https://github-readme-stats.vercel.app/api?username=Brunohsdev&show_icons=true&theme=tokyonight" 
-  />
-<img 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunohsdev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-  </div>
 
 #
 
